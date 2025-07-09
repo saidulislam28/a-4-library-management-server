@@ -1,4 +1,4 @@
-<h1>Library API</h1>
+<h1>Book Management API</h1>
 
 <p>
 A simple Node.js + Express API for managing a library system. This API allows users to do crud operation on books, as well as user can borrow them. It’s perfect for understanding RESTful routes and how to work with MongoDB using Mongoose.
