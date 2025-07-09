@@ -47,3 +47,18 @@ Endpoints:
 * baseUrl/books/:bookId => Method : Delete (To delete any data from book table)
 * baseUrl/borrow => Method : Post (Send {book: book_id, quantity: number, dueDate: Date} this data with the api body to borrow a book)
 * baseUrl/borrow => Method : Get (Can get book title, isbn and count of borrows per book).
+
+<h2>📌 <strong>Setup Instructions</strong></h2>
+  <pre style="background-color: #eee; padding: 1rem; border-radius: 6px;"><code># Clone the repo
+git clone https://github.com/saidulislam28/a-4-library-management-server
+
+# Navigate to project
+cd a-4-library-management-server
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev</code></pre>
+
+  <hr>
